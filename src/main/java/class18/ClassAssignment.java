@@ -1,3 +1,5 @@
+package class18;
+
 import java.util.Scanner;
 
 public class ClassAssignment {
